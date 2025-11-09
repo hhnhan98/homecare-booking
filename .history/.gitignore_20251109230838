@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.DS_Store
+/build
+/.vscode
+mkdir backend frontend docs .github
+touch README.md docs/URD.md docs/INSTALL.md docs/issues.csv .gitignore
